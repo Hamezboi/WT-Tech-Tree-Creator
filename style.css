@@ -335,7 +335,7 @@ a {
 	top: -3px;
 	right: 0px;
 	border: none;
-	background: url("https://i.imgur.com/pqSKFUk.png");
+	background: url("https://forum-en-cdn.warthunder.com/original/4X/9/1/7/917204cb10b7a2d84eee1ca88f176737006d0e65.png");
 	background-size: contain;
 	background-repeat: no-repeat;
 	text-align: right;
@@ -348,7 +348,7 @@ a {
 	top: -3px;
 	width: 152px;
 	height: 6px;
-	background: url("https://i.imgur.com/pqSKFUk.png");
+	background: url("https://forum-en-cdn.warthunder.com/original/4X/9/1/7/917204cb10b7a2d84eee1ca88f176737006d0e65.png");
 	background-size: contain;
 	background-repeat: no-repeat;
 	font-size: 0px;
@@ -775,4 +775,5 @@ footer img {
 	margin-bottom: 3px;
 	width: fit-content;
 }
+
 
