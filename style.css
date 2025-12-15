@@ -152,25 +152,25 @@ body {
 .type_researchable,
 .type_event,
 .type_reserve {
-	background-image: url("https://i.imgur.com/05C2lCi.png");
+	background-image: url("https://forum-en-cdn.warthunder.com/original/4X/b/b/9/bb957a2fcdb96638091b51a822bbc52b548ef0df.webp");
 	background-size: contain;
 	background-repeat: no-repeat;
 }
 
 .type_premium {
-	background-image: url("https://i.imgur.com/VfFrfDu.png");
+	background-image: url("https://forum-en-cdn.warthunder.com/original/4X/b/4/4/b44f28a230402a96dca747964d7329b33505053b.webp");
 	background-size: contain;
 	background-repeat: no-repeat;
 }
 
 .type_squadron {
-	background-image: url("https://i.imgur.com/o2zXWvC.png");
+	background-image: url("https://forum-en-cdn.warthunder.com/original/4X/7/9/e/79e2b3a4dfa317992f63f3f636bf4d670b2370cd.webp");
 	background-size: contain;
 	background-repeat: no-repeat;
 }
 
 .type_event_alt_bg {
-	background-image: url("https://i.imgur.com/vf7xLnN.png");
+	background-image: url("https://forum-en-cdn.warthunder.com/original/4X/e/2/7/e2771523d1b6b1f4c130408388d8e2cb10015a07.webp");
 	background-size: contain;
 	background-repeat: no-repeat;
 }
@@ -775,3 +775,4 @@ footer img {
 	margin-bottom: 3px;
 	width: fit-content;
 }
+
