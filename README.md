@@ -2,6 +2,8 @@
 
 This tool allows creation of tech trees for the game [WarThunder](https://warthunder.com/en). Tech trees are used in game to organize vehicles of one or several nations into a progression system. An example of an official tech tree is [USA ground vehicles](https://wiki.warthunder.com/Category:USA_ground_vehicles). Some players of the game like to propose their custom tech trees, that are not in the game yet, and this tool is here to help them.
 
+This tool is a fork from wartinder to be used with UK users who cannot see imgur embedded images, and is named as such that the url can easily be changed for convenience
+
 ## [You can use the tool here!](https://przemyslaw-zan.github.io/WT-Tech-Tree-Maker/)
 
 ### [Examples of output trees](https://zanju.neocities.org/)
@@ -96,3 +98,4 @@ To download ready version of your project click on the `Export tree` at the menu
 ## Contributing to the tool
 
 I welcome anyone who wishes to help with improving the tool, especially fixing my ugly CSS work.
+
